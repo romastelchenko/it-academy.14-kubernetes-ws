@@ -115,7 +115,7 @@ data:
                   id: "some_randome"
                   password: "XXXXXXXXXXX"
                   scope: GLOBAL
-                  username: "git_hub_user11
+                  username: "git_hub_user11"
         unclassified:
           location:
             adminAddress: "romastelchenko@gmail.com"
